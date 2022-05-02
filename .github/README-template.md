@@ -83,7 +83,8 @@ The details of this project are outlined in the project spec (link)
 
 ## Organizational Resources
 
-The project utilizes a detailed [project board](Link) to facilitate smooth feature implementation.
+* [Project board](Link)
+* [Figma](https://www.figma.com/files/project/55555350/Rancid-Tomatillos?fuid=1093958306969189506)
 
 ## Set Up
 
