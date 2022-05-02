@@ -21,6 +21,10 @@ Example: Close # 173
 
 > Seriously ^
 
+1.
+2.
+3.
+
 ## Type of change
 
 > Delete any change types that are not applicable, along with any explanations in the parenthasis. 
